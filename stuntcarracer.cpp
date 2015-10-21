@@ -10,14 +10,14 @@
 #include "dxstdafx.h"
 #include "resource.h"
 
-#include "StuntCarRacer.h"
-#include "3D Engine.h"
-#include "Backdrop.h"
-#include "Track.h"
-#include "Car.h"
-#include "Car Behaviour.h"
-#include "Opponent Behaviour.h"
-#include "Wavefunctions.h"
+#include "stuntcarracer.h"
+#include "3d_engine.h"
+#include "backdrop.h"
+#include "track.h"
+#include "car.h"
+#include "car_behaviour.h"
+#include "opponent_behaviour.h"
+#include "wave_functions.h"
 
 
 //-----------------------------------------------------------------------------

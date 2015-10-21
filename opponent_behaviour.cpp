@@ -12,11 +12,11 @@
 
 #include <stdlib.h>
 
-#include "StuntCarRacer.h"
-#include "Opponent Behaviour.h"
-#include "Car Behaviour.h"
-#include "Track.h"
-#include "3D Engine.h"
+#include "stuntcarracer.h"
+#include "opponent_behaviour.h"
+#include "car_behaviour.h"
+#include "track.h"
+#include "3d_engine.h"
 
 /*	===== */
 /*	Debug */

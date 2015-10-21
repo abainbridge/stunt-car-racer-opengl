@@ -1,5 +1,5 @@
 #include "dxstdafx.h"
-#include "XBOXController.h"
+#include "xbox_controller.h"
 
 // ctor - playerNumber 1<>4
 CXBOXController::CXBOXController(const int playerNumber)

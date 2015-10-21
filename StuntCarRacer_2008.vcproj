@@ -727,35 +727,35 @@
 			</File>
 		</Filter>
 		<File
-			RelativePath=".\3D Engine.cpp"
+			RelativePath=".\3d_engine.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\3D Engine.h"
+			RelativePath=".\3d_engine.h"
 			>
 		</File>
 		<File
-			RelativePath=".\Backdrop.cpp"
+			RelativePath=".\backdrop.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\Backdrop.h"
+			RelativePath=".\backdrop.h"
 			>
 		</File>
 		<File
-			RelativePath=".\Car Behaviour.cpp"
+			RelativePath=".\car.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\Car Behaviour.h"
+			RelativePath=".\car.h"
 			>
 		</File>
 		<File
-			RelativePath=".\Car.cpp"
+			RelativePath=".\car_behaviour.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\Car.h"
+			RelativePath=".\car_behaviour.h"
 			>
 		</File>
 		<File
@@ -803,11 +803,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\Opponent Behaviour.cpp"
+			RelativePath=".\opponent_behaviour.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\Opponent Behaviour.h"
+			RelativePath=".\opponent_behaviour.h"
 			>
 		</File>
 		<File
@@ -815,11 +815,11 @@
 			>
 		</File>
 		<File
-			RelativePath="StuntCarRacer.cpp"
+			RelativePath=".\stuntcarracer.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\StuntCarRacer.h"
+			RelativePath=".\stuntcarracer.h"
 			>
 		</File>
 		<File
@@ -839,27 +839,19 @@
 			>
 		</File>
 		<File
-			RelativePath=".\Track.cpp"
-			>
-			<FileConfiguration
-				Name="Debug|Win32"
-				>
-				<Tool
-					Name="VCCLCompilerTool"
-					WarningLevel="4"
-				/>
-			</FileConfiguration>
-		</File>
-		<File
-			RelativePath=".\Track.h"
+			RelativePath=".\track.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\wavefunctions.cpp"
+			RelativePath=".\track.h"
 			>
 		</File>
 		<File
-			RelativePath=".\wavefunctions.h"
+			RelativePath=".\wave_functions.cpp"
+			>
+		</File>
+		<File
+			RelativePath=".\wave_functions.h"
 			>
 		</File>
 		<File
@@ -867,11 +859,11 @@
 			>
 		</File>
 		<File
-			RelativePath=".\XBOXController.cpp"
+			RelativePath=".\xbox_controller.cpp"
 			>
 		</File>
 		<File
-			RelativePath=".\XBOXController.h"
+			RelativePath=".\xbox_controller.h"
 			>
 		</File>
 	</Files>

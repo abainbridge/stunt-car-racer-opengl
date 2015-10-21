@@ -47,12 +47,12 @@
 
 #include <stdlib.h>
 
-#include "StuntCarRacer.h"
-#include "Car Behaviour.h"
-#include "Opponent Behaviour.h"
-#include "Track.h"
-#include "3D Engine.h"
-#include "XBOXCOntroller.h"
+#include "stuntcarracer.h"
+#include "car_behaviour.h"
+#include "opponent_behaviour.h"
+#include "track.h"
+#include "3d_engine.h"
+#include "xbox_controller.h"
 
 /*	===== */
 /*	Debug */

@@ -9,8 +9,8 @@
 /*	============= */
 #include "dxstdafx.h"
 
-#include "StuntCarRacer.h"
-#include "3D Engine.h"
+#include "stuntcarracer.h"
+#include "3d_engine.h"
 
 /*	===== */
 /*	Debug */
